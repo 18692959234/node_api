@@ -16,5 +16,5 @@ nodeSrc/config/key.j中的 mongoUrl   改为你本地的 mongodb数据库
 nodeSrc/models 为 数据库 表结构  有user表 posts表...等等 
 
 
-#routers
+# routers
 
