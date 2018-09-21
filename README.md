@@ -1,6 +1,6 @@
 # node_api
 express+mongodb+mongoose+node.js封装的api
-#verify
+# verify
 bcrypt+passport 加密解密
 jsonwebtoken 携带token
 
